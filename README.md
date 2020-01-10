@@ -1,1 +1,1 @@
-# sound-of-jade
+# 描述了一些js算法
